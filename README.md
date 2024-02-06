@@ -29,8 +29,8 @@
 <a href="https://auth.geeksforgeeks.org/user/harshitkr1124/profile" target="blank"><img display="none" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshitkr1124/profile" height="30" width="40" /></a>
 </p>
 
-
-<h1 align="left">Languages and Tools:</h1>
+<br/>
+<h2 align="left">Programming Languages</h2>
 <p align="left" >
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c"  width="50px" /> &nbsp;
@@ -39,7 +39,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="50px"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="50px"/>&nbsp;
 
-<h3>Technology Stack</h3>
+
+<p>Technology Stack</p>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="50px"/>&nbsp;
@@ -55,7 +56,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="mui" width="50px"/>&nbsp;
 </p>
 
-<h3>Others</h3>
+<p>Others</p>
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="jest" width="50px"/>&nbsp;&nbsp;
@@ -63,11 +64,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" alt="git" width="50px"/>&nbsp;&nbsp;
 </p>
 
-
-![Harshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshitkumar1124&show_icons=true&theme=dark)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitkumar1124&" alt="harshitkumar1124" /></p>
-
+<br/>
 <h1>Pinned Repositories</h1>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitkumar1124&show_icons=true&locale=en&layout=compact" alt="harshitkumar1124" /></p>
 
