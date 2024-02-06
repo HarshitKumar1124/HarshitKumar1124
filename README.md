@@ -26,11 +26,7 @@
 <h1 align="left">Connect with me:</h1>
 <p align="left" >
 <a href="https://linkedin.com/in/harshit kumar" target="blank"><img align="left"  style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="harshit kumar" width="50px"/></a>
-<a href="https://instagram.com/harshitdreams8a_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshitdreams8a_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/harshitsparkx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshitsparkx" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harshitkr2411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshitkr2411" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harshit kumar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original-wordmark.svg" alt="har" width="60px" /></a>
-<a href="https://auth.geeksforgeeks.org/user/harshitkr1124/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshitkr1124/profile" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/harshitkr1124/profile" target="blank"><img display="none" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshitkr1124/profile" height="30" width="40" /></a>
 </p>
 
 
@@ -65,12 +61,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="jest" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" alt="docker" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" alt="git" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original-wordmark.svg" alt="framer motion" width="100px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original-wordmark.svg" alt="blender" width="100px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-line.svg" alt="Illustrator" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg" alt="Premiere pro" width="50px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" alt="After Effects" width="50px"/>
 </p>
 
 
