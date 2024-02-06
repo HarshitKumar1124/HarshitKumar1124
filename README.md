@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **Harshitkr1124@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1egQkDpRkarU--rY3ujHxEdF2KCk0479b?usp=sharing](https://drive.google.com/drive/folders/1egQkDpRkarU--rY3ujHxEdF2KCk0479b?usp=sharing)
+- 📄 Know about my experiences [CV_Harshit-Kumar](https://drive.google.com/drive/folders/1egQkDpRkarU--rY3ujHxEdF2KCk0479b?usp=sharing)
 
 - ⚡ Fun fact **I'm a Caricature Artist**
 
